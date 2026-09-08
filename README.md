@@ -1,4 +1,5 @@
 # LLM Engineering - Master AI and LLMs
+Version update by Xavier on 8/Sept/26
 
 ## Your 8 week journey to proficiency starts today
 
